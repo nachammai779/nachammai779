@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nachammai779&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachammai779&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>⭐ If you find my work useful, feel free to star the repositories!</i>
 </p>
